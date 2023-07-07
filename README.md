@@ -4,6 +4,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=cherry2030&show_icons=true">
   </p>
 
+  <br>
+  <br>
+
 ### 💪 Skills & Tools
   
   <img src="https://img.shields.io/badge/Java-A9BCF5?style=flat&logo=OpenJDK&logoColor=white"/></a>
@@ -12,6 +15,8 @@
   <img src="https://img.shields.io/badge/AWS-A9BCF5?style=flat&logo=AmazonAWS&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Github Actions-A9BCF5?style=flat&logo=GithubActions&logoColor=white"/></a>
 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
 
   <img src="https://img.shields.io/badge/Notion-F5ECCE?style=flat&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-F5ECCE?style=flat&logo=DiscordlogoColor=white"/></a>
