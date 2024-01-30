@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 
 
-
+<!--
 ### ✍ Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chaeeun)](https://velog.io/@chaeeun2030)
 
