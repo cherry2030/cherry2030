@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=200&section=header&text=🍒chaeeun🍒&fontSize=50" />
 
+<!--
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cherry2030&show_icons=true">
   </p>
-
+-->
   <br>
   <br>
 
